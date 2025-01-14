@@ -1,0 +1,1 @@
+Simple TicTacToe game that is always in dark mode. Coded with javafx, there is a restart button in case you want to restart the game at any point. X always go first, it is always one player versus another (no computer opponent available).
